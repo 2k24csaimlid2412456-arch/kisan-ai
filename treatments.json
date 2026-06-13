@@ -1,0 +1,230 @@
+{
+  "Apple___Apple_scab": {
+    "display_name": "Apple Scab",
+    "severity": "moderate",
+    "treatment": "Apply fungicides containing captan, myclobutanil, or mancozeb at 7-10 day intervals starting at bud break. Remove and destroy fallen infected leaves. Prune infected twigs during dormancy.",
+    "prevention": "Plant scab-resistant apple varieties. Ensure good air circulation by proper pruning. Rake and destroy fallen leaves in autumn to reduce spore load."
+  },
+  "Apple___Black_rot": {
+    "display_name": "Apple Black Rot",
+    "severity": "severe",
+    "treatment": "Remove and destroy all mummified fruits and infected branches. Apply captan or thiophanate-methyl fungicide every 10-14 days. Cut out cankers with sterilised tools, cutting 15cm beyond visible infection.",
+    "prevention": "Remove dead wood promptly. Avoid wounding trees during cultivation. Keep trees well-fertilised and properly irrigated to maintain vigour."
+  },
+  "Apple___Cedar_apple_rust": {
+    "display_name": "Apple Cedar Rust",
+    "severity": "moderate",
+    "treatment": "Apply myclobutanil or propiconazole fungicide from pink bud stage through first cover spray. Remove nearby juniper/cedar trees if possible as they are the alternate host.",
+    "prevention": "Plant rust-resistant apple varieties. Create physical distance (300m+) between apple orchards and juniper/cedar plantings."
+  },
+  "Apple___healthy": {
+    "display_name": "Healthy Apple",
+    "severity": "none",
+    "treatment": "Plant looks perfectly healthy! Continue your current care routine.",
+    "prevention": "Maintain regular inspection schedule. Apply balanced NPK fertiliser seasonally. Keep orchard floor clean of debris."
+  },
+  "Blueberry___healthy": {
+    "display_name": "Healthy Blueberry",
+    "severity": "none",
+    "treatment": "Plant looks healthy. Continue regular care.",
+    "prevention": "Maintain soil pH between 4.5-5.5. Apply mulch to retain moisture. Prune dead canes annually."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "display_name": "Cherry Powdery Mildew",
+    "severity": "moderate",
+    "treatment": "Apply sulfur-based fungicide or potassium bicarbonate spray at first sign of infection. Remove heavily infected shoots. Ensure adequate spacing between plants.",
+    "prevention": "Plant in full sun with good air circulation. Avoid high-nitrogen fertilisation which promotes susceptible succulent growth. Apply preventive sulfur sprays during humid conditions."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "display_name": "Healthy Cherry",
+    "severity": "none",
+    "treatment": "Plant looks healthy. Maintain your current care routine.",
+    "prevention": "Prune annually for good air circulation. Apply balanced fertiliser in early spring. Monitor for pests weekly."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "display_name": "Corn Gray Leaf Spot",
+    "severity": "moderate",
+    "treatment": "Apply strobilurin or triazole fungicide at tasseling stage if more than 50% of plants show lesions below the ear leaf. Rotate crops to non-grass species for at least one season.",
+    "prevention": "Plant resistant hybrids. Rotate with soybean, cotton or vegetables. Avoid minimum tillage in areas with high disease history. Ensure proper plant spacing for airflow."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "display_name": "Corn Common Rust",
+    "severity": "moderate",
+    "treatment": "Apply triazole or strobilurin fungicide if rust is found before or during tasseling on susceptible varieties. Early-season infections are more damaging than late ones.",
+    "prevention": "Plant rust-resistant corn hybrids — this is the most effective control. Plant early to avoid peak rust infection periods. Scout fields regularly from V4 stage onwards."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "display_name": "Corn Northern Leaf Blight",
+    "severity": "severe",
+    "treatment": "Apply azoxystrobin, propiconazole, or pyraclostrobin fungicide at VT/R1 stage. Remove crop debris after harvest. Severely infected fields may need early harvest to prevent total loss.",
+    "prevention": "Use resistant hybrids — highest priority. Rotate with non-grass crops. Bury or till under infected crop residues. Avoid planting in low-lying, poorly drained areas."
+  },
+  "Corn_(maize)___healthy": {
+    "display_name": "Healthy Corn (Maize)",
+    "severity": "none",
+    "treatment": "Plant looks healthy. Continue current management practices.",
+    "prevention": "Maintain balanced soil fertility. Scout weekly for early pest and disease signs. Ensure proper plant spacing for air circulation."
+  },
+  "Grape___Black_rot": {
+    "display_name": "Grape Black Rot",
+    "severity": "severe",
+    "treatment": "Apply mancozeb, myclobutanil, or captan fungicide starting at bud break, every 10-14 days through veraison. Remove and destroy all mummified berries and infected leaves immediately — they are the primary inoculum source.",
+    "prevention": "Prune for open canopy and good air flow. Remove mummies during dormant pruning. Train vines on trellis to keep fruit off the ground."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "display_name": "Grape Esca (Black Measles)",
+    "severity": "severe",
+    "treatment": "No curative treatment exists. Remove and destroy infected vines. Avoid large pruning wounds. Apply wound sealants (Bordeaux paste) immediately after pruning. In early stages, surgical removal of infected wood may save the vine.",
+    "prevention": "Make pruning cuts during dry weather. Seal all large pruning wounds immediately. Avoid water stress. Use certified disease-free planting material."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "display_name": "Grape Leaf Blight",
+    "severity": "moderate",
+    "treatment": "Apply copper-based fungicide or mancozeb at 10-14 day intervals. Remove severely infected leaves. Improve air circulation through canopy management.",
+    "prevention": "Maintain open canopy through proper training and leaf removal. Avoid overhead irrigation. Apply preventive copper sprays before the onset of monsoon."
+  },
+  "Grape___healthy": {
+    "display_name": "Healthy Grape",
+    "severity": "none",
+    "treatment": "Plant looks healthy! Continue your vineyard management routine.",
+    "prevention": "Regular canopy management, balanced fertilisation, and weekly scouting are your best tools."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "display_name": "Citrus Greening (HLB)",
+    "severity": "severe",
+    "treatment": "CRITICAL: There is no cure for HLB. Infected trees must be removed and destroyed immediately to prevent spread to healthy trees. Control the Asian citrus psyllid vector with systemic insecticides (imidacloprid soil drenches). Report to your local agricultural department immediately.",
+    "prevention": "Use only certified disease-free nursery stock. Install psyllid monitoring traps. Apply reflective mulches to repel psyllids. Implement a coordinated area-wide psyllid management programme."
+  },
+  "Peach___Bacterial_spot": {
+    "display_name": "Peach Bacterial Spot",
+    "severity": "moderate",
+    "treatment": "Apply copper bactericide sprays starting at shuck split, every 5-7 days during wet weather. Oxytetracycline sprays are effective in early season. Remove and destroy heavily infected shoots.",
+    "prevention": "Plant resistant varieties where available. Avoid sites prone to late spring frosts and strong winds. Apply copper dormant sprays. Maintain tree vigour through proper nutrition."
+  },
+  "Peach___healthy": {
+    "display_name": "Healthy Peach",
+    "severity": "none",
+    "treatment": "Plant looks healthy! Continue regular care.",
+    "prevention": "Thin fruit clusters early for better air circulation and fruit size. Apply balanced fertiliser. Monitor for borers and aphids."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "display_name": "Bell Pepper Bacterial Spot",
+    "severity": "moderate",
+    "treatment": "Apply copper hydroxide or copper sulfate + mancozeb spray mixture every 5-7 days. Remove badly infected plants from the field. Avoid working in the field when plants are wet.",
+    "prevention": "Use certified disease-free seed or hot-water-treated seed. Rotate crops (3-year rotation away from peppers and tomatoes). Avoid overhead irrigation. Stake plants for better air circulation."
+  },
+  "Pepper,_bell___healthy": {
+    "display_name": "Healthy Bell Pepper",
+    "severity": "none",
+    "treatment": "Plant looks healthy! Continue regular watering and fertilisation.",
+    "prevention": "Maintain consistent soil moisture. Side-dress with calcium nitrate to prevent blossom end rot. Scout weekly for aphids and thrips."
+  },
+  "Potato___Early_blight": {
+    "display_name": "Potato Early Blight",
+    "severity": "moderate",
+    "treatment": "Apply chlorothalonil, mancozeb, or azoxystrobin fungicide every 7-10 days beginning at first symptom appearance or when 25% of the canopy shows lower leaf infection. Ensure complete coverage of foliage.",
+    "prevention": "Use certified disease-free seed tubers. Maintain adequate soil fertility — nitrogen-stressed plants are more susceptible. Rotate crops for 2-3 years. Avoid overhead irrigation in evening."
+  },
+  "Potato___Late_blight": {
+    "display_name": "Potato Late Blight",
+    "severity": "severe",
+    "treatment": "URGENT: Apply metalaxyl + mancozeb (Ridomil Gold MZ) or cymoxanil + mancozeb immediately. Spray every 5-7 days during cool, wet weather. If infection is heavy, consider killing the haulms (vine killing) to protect tubers. Remove and destroy infected plant material — do not compost.",
+    "prevention": "Use certified blight-free seed. Plant resistant varieties (Kufri Jyoti in India). Apply preventive fungicide sprays before monsoon. Avoid planting in waterlogged low areas. Monitor Blitecast or regional blight forecasting services."
+  },
+  "Potato___healthy": {
+    "display_name": "Healthy Potato",
+    "severity": "none",
+    "treatment": "Plant looks healthy! Continue current management.",
+    "prevention": "Hill soil around stems to prevent greening of tubers. Maintain consistent moisture. Scout for Colorado potato beetle weekly."
+  },
+  "Raspberry___healthy": {
+    "display_name": "Healthy Raspberry",
+    "severity": "none",
+    "treatment": "Plant looks healthy! Continue regular care.",
+    "prevention": "Remove old fruiting canes after harvest. Maintain good air circulation. Mulch to suppress weeds and retain soil moisture."
+  },
+  "Soybean___healthy": {
+    "display_name": "Healthy Soybean",
+    "severity": "none",
+    "treatment": "Plant looks healthy! Continue regular management.",
+    "prevention": "Rotate with non-legume crops. Scout for aphids and soybean cyst nematode. Inoculate seed with Bradyrhizobium for nitrogen fixation."
+  },
+  "Squash___Powdery_mildew": {
+    "display_name": "Squash Powdery Mildew",
+    "severity": "mild",
+    "treatment": "Apply potassium bicarbonate, neem oil, or sulfur-based fungicide spray. For organic control, spray diluted milk solution (40% milk, 60% water) every 7 days. Remove heavily infected leaves.",
+    "prevention": "Plant in full sun. Ensure adequate plant spacing. Avoid overhead watering. Choose resistant varieties. Apply preventive neem oil spray during high-humidity periods."
+  },
+  "Strawberry___Leaf_scorch": {
+    "display_name": "Strawberry Leaf Scorch",
+    "severity": "mild",
+    "treatment": "Remove and destroy infected leaves and runners. Apply captan or myclobutanil fungicide every 10-14 days. Renovate beds after harvest by mowing and removing old foliage.",
+    "prevention": "Use certified disease-free transplants. Plant in well-drained soil with good air circulation. Avoid overhead irrigation. Renovate beds annually."
+  },
+  "Strawberry___healthy": {
+    "display_name": "Healthy Strawberry",
+    "severity": "none",
+    "treatment": "Plant looks healthy! Continue regular care.",
+    "prevention": "Remove runners to maintain plant vigour. Apply balanced fertiliser after harvest. Renew beds every 3 years."
+  },
+  "Tomato___Bacterial_spot": {
+    "display_name": "Tomato Bacterial Spot",
+    "severity": "moderate",
+    "treatment": "Apply copper hydroxide + mancozeb mixture every 5-7 days during warm, wet weather. Remove heavily infected lower leaves. Avoid overhead irrigation. Use drip irrigation if possible.",
+    "prevention": "Use certified disease-free seed. Apply hot water treatment to seed (50°C for 25 minutes). Rotate crops for 2 years. Use resistant varieties. Stake or cage plants for good air flow."
+  },
+  "Tomato___Early_blight": {
+    "display_name": "Tomato Early Blight",
+    "severity": "moderate",
+    "treatment": "Apply chlorothalonil or mancozeb fungicide every 7-10 days. Remove infected lower leaves. Mulch around plants to prevent soil splash. Ensure adequate nutrition — nitrogen deficiency increases susceptibility.",
+    "prevention": "Use certified disease-free seed or transplants. Stake plants. Mulch heavily. Rotate crops for 3 years. Avoid overhead watering."
+  },
+  "Tomato___Late_blight": {
+    "display_name": "Tomato Late Blight",
+    "severity": "severe",
+    "treatment": "Apply metalaxyl + mancozeb or cymoxanil fungicide IMMEDIATELY at first sign of infection. Spray every 5-7 days. Remove and bag infected plant material — do not compost. In severe cases, remove entire infected plants from the field.",
+    "prevention": "Use resistant varieties. Avoid overhead irrigation. Apply preventive sprays before monsoon. Space plants adequately. Destroy volunteer tomato and potato plants nearby."
+  },
+  "Tomato___Leaf_Mold": {
+    "display_name": "Tomato Leaf Mold",
+    "severity": "moderate",
+    "treatment": "Improve ventilation in greenhouse/polytunnel. Apply copper-based fungicide or chlorothalonil spray. Remove and destroy infected leaves. Reduce humidity by adjusting irrigation and spacing.",
+    "prevention": "Plant resistant varieties. Maintain relative humidity below 85%. Ensure 60cm+ spacing between plants. Remove lower leaves to improve airflow."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "display_name": "Tomato Septoria Leaf Spot",
+    "severity": "moderate",
+    "treatment": "Apply chlorothalonil, mancozeb, or copper-based fungicide every 7-10 days. Remove infected lower leaves immediately and dispose of them away from the garden. Mulch to prevent soil splash.",
+    "prevention": "Rotate crops for 3+ years. Avoid working around plants when wet. Mulch around base of plants. Stake plants for good air circulation. Use drip irrigation."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "display_name": "Tomato Spider Mite Infestation",
+    "severity": "moderate",
+    "treatment": "Apply abamectin, bifenazate, or spiromesifen miticide — note spider mites are NOT insects, so standard insecticides are ineffective. Neem oil and insecticidal soap also work for mild infections. Spray undersides of leaves thoroughly. Repeat every 5-7 days for 3 applications.",
+    "prevention": "Avoid excessive nitrogen fertilisation. Keep dust down in the garden. Introduce predatory mites (Phytoseiulus persimilis) as biological control. Avoid plant water stress — mites thrive on stressed plants."
+  },
+  "Tomato___Target_Spot": {
+    "display_name": "Tomato Target Spot",
+    "severity": "moderate",
+    "treatment": "Apply azoxystrobin, fluxapyroxad, or chlorothalonil fungicide every 14 days. Remove infected lower leaves. Improve air circulation through staking and pruning of suckers.",
+    "prevention": "Use resistant varieties. Remove crop debris after harvest. Avoid overhead irrigation. Rotate crops annually. Maintain balanced plant nutrition."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "display_name": "Tomato Yellow Leaf Curl Virus",
+    "severity": "severe",
+    "treatment": "NO CURE EXISTS once a plant is infected. Remove and destroy infected plants IMMEDIATELY to prevent whitefly spread to healthy plants. Apply imidacloprid or thiamethoxam systemic insecticide to control whitefly vector on remaining healthy plants. Use yellow sticky traps to monitor whitefly populations.",
+    "prevention": "Plant resistant varieties (most important). Use UV-reflective silver mulch to repel whiteflies. Cover transplants with fine mesh netting. Apply neonicotinoid seed treatment. Eliminate weed hosts near the field."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "display_name": "Tomato Mosaic Virus",
+    "severity": "severe",
+    "treatment": "NO CURE. Remove and destroy infected plants. Disinfect all tools, hands, and equipment with 10% bleach solution or trisodium phosphate — this virus spreads through contact. Do not smoke near plants (tobacco can carry the virus).",
+    "prevention": "Use resistant varieties with Tm-2 gene. Use certified virus-free seed. Wash hands thoroughly before handling plants. Sterilise all tools. Control aphids which can spread the virus."
+  },
+  "Tomato___healthy": {
+    "display_name": "Healthy Tomato",
+    "severity": "none",
+    "treatment": "Plant looks perfectly healthy! Continue your current care routine.",
+    "prevention": "Stake or cage plants for support and air circulation. Water at the base — avoid wetting foliage. Apply balanced fertiliser every 2 weeks. Scout weekly for early signs of disease or pest."
+  }
+}
