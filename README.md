@@ -2,7 +2,7 @@
 
 > Upload a leaf photo → get instant disease diagnosis + treatment advice
 
-[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-HuggingFace_Spaces-yellow)](https://huggingface.co/spaces/YOUR_USERNAME/kisan-ai)
+[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-HuggingFace_Spaces-yellow)](https://huggingface.co/spaces/Sudhanshu011/kisan-ai)
 [![API](https://img.shields.io/badge/API-Railway-purple)](https://your-app.railway.app/docs)
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3-orange)](https://pytorch.org)
